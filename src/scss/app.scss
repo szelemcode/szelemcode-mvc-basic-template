@@ -1,0 +1,42 @@
+//base
+@forward 'base/animation';
+@forward 'base/global';
+@forward 'base/mixins';
+@forward 'base/typography';
+@forward 'base/variables';
+
+//components
+@forward 'components/badges';
+@forward 'components/buttons';
+@forward 'components/cards';
+@forward 'components/form';
+@forward 'components/modal';
+@forward 'components/social';
+
+//layout
+@forward 'layout/footer';
+@forward 'layout/grid';
+@forward 'layout/header';
+@forward 'layout/hero';
+@forward 'layout/navigation';
+
+//pages
+@forward 'pages/contact';
+@forward 'pages/home';
+@forward 'pages/proyects';
+@forward 'pages/services';
+
+//themes
+@forward 'themes/alternativecolors';
+@forward 'themes/darkmode';
+@forward 'themes/lightmode';
+
+//utilities
+@forward 'utilities/conteiners';
+@forward 'utilities/helpers';
+@forward 'utilities/spacing';
+
+@forward 'vendors/normalize';
+@forward 'vendors/swipper';
+
+
